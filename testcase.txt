@@ -1,0 +1,4 @@
+Accepted result - if today date is prime so return data those data you get in openweathermap api otherwise you return message of date is not prime
+
+
+Actual result - if today date is prime so return data those data you get in openweathermap api otherwise you return message of date is not prime
